@@ -9,3 +9,4 @@ def key_for_min_value(name_hash)
     key <=> value
   end.first[0]
 end
+end
